@@ -1,0 +1,78 @@
+{
+    "978-1-916926-25-7": {
+        "title": "The Awakening",
+        "author": [
+            "Caroline Peckham",
+            "Susanne Valenti"
+        ],
+        "isbn": "978-1-916926-25-7",
+        "Published date": "2019-7-13",
+        "genre": [
+            "Fantasy Fiction",
+            "Romance",
+            "Vampire Literature",
+            "Paranormal Fantasy",
+            "Paranormal Fiction"
+        ],
+        "available": true
+    },
+    "978-1-78966-594-5": {
+        "title": "The Kubernetes Book",
+        "author": [
+            "Nigel Poulton"
+        ],
+        "isbn": "978-1-78966-594-5",
+        "Published date": "2017-5-1",
+        "genre": [
+            "Computers",
+            "Technology",
+            "Programming"
+        ],
+        "available": true
+    },
+    "978-1-9848-9050-6": {
+        "title": "Fourth Wing",
+        "author": [
+            "Rebecca Yarros"
+        ],
+        "isbn": "978-1-9848-9050-6",
+        "available": true,
+        "genre": [
+            "Romance Fantasy",
+            "Fantasy Fiction",
+            "Romance novel",
+            "High fantansy",
+            "New adult fiction",
+            "Dystopian Fiction",
+            "Epic Fiction"
+        ],
+        "Published date": "2023-5-2"
+    },
+    "0-13-725649-3": {
+        "title": "Data Structures and Program Design in C",
+        "author": [
+            "Robert L. Kruse",
+            "Bruce P. Leung",
+            "Clovis L. Tondo"
+        ],
+        "isbn": "0-13-725649-3",
+        "Published date": "1996-1-1",
+        "genre": [
+            "Computers",
+            "Technology",
+            "Programming"
+        ],
+        "available": true
+    },
+    "978-1-78953-123-4": {
+        "title": "Docker Deep Dive",
+        "author": "Nigel Poulton",
+        "isbn": "978-1-78953-123-4",
+        "Published date": "2020-01-01",
+        "genre": [
+            "Technology",
+            "Programming"
+        ],
+        "available": true
+    }
+}
